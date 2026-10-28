@@ -1,0 +1,6 @@
+{
+  "name": "CFA Desk",
+  "description": "CFA Desk - Platform Analis Finansial Eksekutif: Balance Sheet, Profit & Loss, Segmentasi Pendapatan, Data Operasional UNTR, Deteksi Anomali, dan Ringkasan Eksekutif CFO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
